@@ -389,8 +389,8 @@ main{
    color: orange;
 }
 .off{
-  z-index: 0;
-  font-size:0.25px;
+ 
+  font-size:1px;
 }
 .offf{
   cursor: not-allowed;
